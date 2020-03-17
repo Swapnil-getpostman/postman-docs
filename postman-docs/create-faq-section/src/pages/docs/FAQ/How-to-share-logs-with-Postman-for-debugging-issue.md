@@ -1,3 +1,10 @@
+---
+title: "How to share logs with Postman for debugging issue?"
+order: 1
+page_id: "How to share logs with Postman for debugging issue?"
+warning: false
+---
+
 ### How to share logs with Postman for debugging issue?
 
 When you face issue using Postman either with startup or with its functionality, please provide the following logs to [help@getpostman.com](mailto:help@getpostman.com) to find the root cause of the issue.
