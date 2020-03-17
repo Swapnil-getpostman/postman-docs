@@ -1,6 +1,6 @@
 ---
 title: "How to share logs with Postman for debugging issue?"
-order: 4
+order: 360025298633
 page_id: "How to share logs with Postman for debugging issue?"
 warning: false
 ---
