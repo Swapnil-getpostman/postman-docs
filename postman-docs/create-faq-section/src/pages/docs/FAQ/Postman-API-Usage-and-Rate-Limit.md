@@ -1,6 +1,6 @@
 ---
 title: "Postman API Usage and Rate Limit"
-order: 3
+order: 2
 page_id: "Postman API Usage and Rate Limit"
 warning: false
 ---
