@@ -1,3 +1,10 @@
+---
+title: "My requests take longer time to receive response"
+order: 2
+page_id: "My requests take longer time to receive response"
+warning: false
+---
+
 ### My requests take longer time to receive response
 
 After sending a request in Postman, application hangs / blank screen / black window / takes a lot of time to get a response? If you are receiving a blank screen / black window while opening the application or without sending any request, please try disabling the GPU as mentioned in this article [here.](https://support.getpostman.com/hc/en-us/articles/360026088854-Postman-window-is-blank)
