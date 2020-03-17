@@ -1,6 +1,6 @@
 ---
 title: "Postman window is blank"
-order: 4
+order: 3
 page_id: "Postman window is blank"
 warning: false
 ---
