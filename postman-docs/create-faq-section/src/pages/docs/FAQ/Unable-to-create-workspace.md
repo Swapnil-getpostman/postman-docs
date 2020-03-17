@@ -1,3 +1,10 @@
+---
+title: "Unable to create workspace"
+order: 5
+page_id: "Unable to create workspace"
+warning: false
+---
+
 ### Unable to create workspace
 
 When you try to Create New Workspace, the Create New and All Workspaces buttons are grayed out. The sync icon on the top right will appear grayed out when the sync is disabled/off.
